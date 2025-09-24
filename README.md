@@ -44,7 +44,7 @@ To reproduce this analysis, please follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/data-analyst-jobs-analysis.git
+    git clone https://github.com/takzen/data-analyst-jobs-analysis.git
     cd data-analyst-jobs-analysis
     ```
 
